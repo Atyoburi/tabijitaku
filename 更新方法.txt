@@ -1,0 +1,1 @@
+GitHubの Atyoburi/tabijitaku リポジトリのルートに、index.html / app.js / sw.js の3ファイルをアップロードして同名ファイルを置き換えてください。既存の持ち物データは localStorage の同じキーを使用するため引き継ぎます。iPhone側で更新が見えない場合はアプリを完全に閉じて再起動し、オンラインで再読み込みしてください。
